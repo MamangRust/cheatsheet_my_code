@@ -71,7 +71,7 @@ const Index = () => {
                     {cheatsheets?.slice(0, 5).map((sheet) => (
                       <Link
                         key={sheet.slug}
-                        to={`/cheatsheet/${sheet.slug}`}
+                        to={`/cheatsheets/${sheet.slug}`}
                         className="block p-8 bg-white dark:bg-gray-800/50 rounded-xl border border-gray-300 dark:border-gray-700 hover:bg-amber-100 dark:hover:bg-gray-700/60 hover:border-amber-500/30 dark:hover:border-blue-200/30 transition-all duration-300"
                       >
                         <h3 className="text-xl font-serif text-amber-500 dark:text-blue-200 mb-4 transition-colors group-hover:text-amber-700 dark:group-hover:text-blue-300">

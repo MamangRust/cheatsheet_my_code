@@ -12,7 +12,7 @@ function App() {
   return (
     <ThemeProvider>
       <QueryClientProvider client={queryClient}>
-        <BrowserRouter>
+        <BrowserRouter basename="/cheatsheet_my_code">
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/cheatsheets" element={<Cheatsheets />} />
