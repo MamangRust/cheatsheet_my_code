@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "homepage": "https://mamangrust.github.io/cheatsheet_my_code/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
