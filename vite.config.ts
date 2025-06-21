@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 
 
 export default defineConfig(async () => ({
-  base: "/cheatsheet_my_code/",
+   base: "/cheatsheet_my_code/",
   plugins: [react(), velite()],
   resolve: {
     alias: {
@@ -32,7 +32,6 @@ export default defineConfig(async () => ({
           port: 1421,
         }
       : undefined,
-    historyApiFallback: true,
     watch: {
       ignored: ["**/src-tauri/**"],
     },
