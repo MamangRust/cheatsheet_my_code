@@ -1,7 +1,7 @@
-# Tauri + React + Typescript
+## Cheatsheet My Code
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Kumpulan clean code snippet, best practices, pekerjaan lintas bahasa: Golang, Rust, Java, Python, dan TypeScript.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+> [!WARNING]
+> Important Notice: This Cheatsheet My Code is currently under active development and is not production-ready. Some core features may be incomplete or subject to change. This project is intended for personal use and learning purposes only.
